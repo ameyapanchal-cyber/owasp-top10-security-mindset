@@ -98,6 +98,7 @@ Attackers attempt to control where the server sends requests, accessing internal
 - Rarely used or hidden functionality may be more vulnerable
 - Business impact matters more than page popularity
 - Observation comes before exploitation
+- Trust → Input → Logic → Impact
 
 ---
 
